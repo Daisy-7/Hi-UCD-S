@@ -14,7 +14,7 @@ Hi-UCD (ultra-High Urban Change Detection) series datasets are designed for deep
 ![Examples for Hi-UCD mini dataset](./picture/Hi-UCD%20mini.png)
 
 
-The Hi-UCD dataset can be download through the Google Drive link.
+The Hi-UCD mini dataset can be download through the Google Drive link.
 Please submit a download request through the link and I will process your request as soon as possible.
 
 
