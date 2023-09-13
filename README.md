@@ -28,7 +28,7 @@ Please submit a download request through the link and I will process your reques
 Hi-UCD dataset is comming soon.
 
 ## Citation
-If you use Hi-UCD series datset in your research, please cite our papers as follows:
+If you use Hi-UCD series dataset in your research, please cite our papers as follows:
 ```
 @article{tian2020hi,
   title={Hi-UCD: A large-scale dataset for urban semantic change detection in remote sensing imagery},
