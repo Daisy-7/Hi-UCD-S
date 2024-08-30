@@ -20,7 +20,7 @@ Please submit a download request through the link and I will process your reques
 
 ## Hi-UCD 
 
-[`paper`](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002210) [`Data`](http://yxz2jz16sfbxbvne.mikecrm.com/3IgmdVo)
+[`paper`](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002210) [`Data`](https://docs.google.com/forms/d/e/1FAIpQLSfEJ8z4ubdRbjDjTdr4kFeaLnhtiDNf_lxF-Y6Fee2C-RV9ag/viewform?usp=sf_link)
 
 ![Hi-UCD dataset](./picture/Hi-UCD.png)
 ![public dataset](./picture/public%20dataset.png)
@@ -32,7 +32,7 @@ The characteristics of Hi-UCD:
 3. Include 2 years of images, 9 land cover classes and 48 semantic change classes. 
 4. Tasks that can be performed on this dataset: semantic segmentation, binary change detection, semantic change detection, etc.
 
-The Hi-UCD dataset can be downloaded through the [Baidu Drive link](http://yxz2jz16sfbxbvne.mikecrm.com/3IgmdVo). 
+The Hi-UCD dataset can be downloaded through the [Baidu Drive link](http://yxz2jz16sfbxbvne.mikecrm.com/3IgmdVo) and [OneDrive link](https://docs.google.com/forms/d/e/1FAIpQLSfEJ8z4ubdRbjDjTdr4kFeaLnhtiDNf_lxF-Y6Fee2C-RV9ag/viewform?usp=sf_link). 
 
 If you want to get the test scores, please join our hosted benchmark platform: [semantic change detection](https://www.codabench.org/competitions/3485/).
 
