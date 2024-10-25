@@ -55,8 +55,8 @@ If you want to get the test scores, please join our hosted benchmark platform: [
 |Number|Class|Palette|
 |---|---|---|
 |0| unlabeled|(255,255,255)|
-|1|change|(0,0,0)|
-|2|unchanged|(220,	0,	0)|
+|1|unchanged|(0,0,0)|
+|2|changed|(220,	0,	0)|
 
 
 
