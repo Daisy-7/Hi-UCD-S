@@ -34,7 +34,7 @@ The characteristics of Hi-UCD:
 
 The Hi-UCD dataset can be downloaded through the [Baidu Drive link](https://pan.baidu.com/s/1Q4wv4jfY4xDHorGSzF0mmw?pwd=0zgp) and [OneDrive link](https://docs.google.com/forms/d/e/1FAIpQLSfEJ8z4ubdRbjDjTdr4kFeaLnhtiDNf_lxF-Y6Fee2C-RV9ag/viewform?usp=sf_link). 
 
-If you want to get the test scores, please join our hosted benchmark platform: [semantic change detection](https://www.codabench.org/competitions/3485/).
+**If you want to get the test scores, please join our hosted benchmark platform: [semantic change detection](https://www.codabench.org/competitions/3485/).**
 
 ## Semantic label and palette
 |Number|Class|Palette|
