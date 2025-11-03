@@ -4,8 +4,9 @@ Hi-UCD (ultra-High Urban Change Detection) series datasets are designed for deep
 
 
 ## News
-- 2023/9/10 Hi-UCD mini is released.
-- 2024/7/18 Hi-UCD is released.
+- 2023/9/10    Hi-UCD mini is released.
+- 2024/7/18    Hi-UCD is released.
+- **2025/11/01**    **We have updated the content of the Hi-UCD training set based on the [issue](https://github.com/Daisy-7/Hi-UCD-S/issues/31). If you downloaded the Hi-UCD dataset before November 1, 2025, please download the patch package from this [link](https://1drv.ms/u/c/0abce178402b585f/EbNqnENEDi5Pl9LeKvMYFcYBfLxkwvhHftQXtuqgha5dRQ?e=Nlr0Hq) to replace the images in the training set.**
 
 ## Hi-UCD mini
 
